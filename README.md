@@ -5,7 +5,10 @@ Class project that utilizes Docker, Zookeeper, and Kafka to simulate a payment d
 
 <img width="800" height="420" alt="A data stream in PowerShell running split-screen, showing payments being sent from producer to consumer." src="https://github.com/user-attachments/assets/3dc94d1d-d4b5-4836-b0fd-e5c21bab6bc7" />
 
-A data stream runs split screen in PowerShell, with Kafka sending and receiving payments. Payments received are given a fraud score. 
+<img width="800" height="300" alt="csv output of project." src="https://github.com/user-attachments/assets/517ee9c3-985c-47d3-9195-8eaf40bc7e2a" />
+
+
+A data stream runs split screen in PowerShell, with Kafka sending and receiving payments. Payments received are given a fraud score. This is stored in the csv output. 
 
 # How to Set Up 
   1. Ensure Docker Desktop is installed.
